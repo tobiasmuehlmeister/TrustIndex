@@ -1,0 +1,271 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lanaj, K
+   Foulk, TA
+   Erez, A
+AF Lanaj, Klodiana
+   Foulk, Trevor A.
+   Erez, Amir
+TI Energizing Leaders via Self-Reflection: A Within-Person Field Experiment
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 1
+EP 18
+DI 10.1037/apl0000350
+UT WOS:000454514400001
+PM 30321029
+ER
+
+PT J
+AU Rosen, CC
+   Simon, LS
+   Gajendran, RS
+   Johnson, RE
+   Lee, HW
+   Lin, SH
+AF Rosen, Christopher C.
+   Simon, Lauren S.
+   Gajendran, Ravi S.
+   Johnson, Russell E.
+   Lee, Hun Whee
+   Lin, Szu-Han (Joanna)
+TI Boxed in by Your Inbox: Implications of Daily E-Mail Demands for
+   Managers' Leadership Behaviors
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 19
+EP 33
+DI 10.1037/apl0000343
+UT WOS:000454514400002
+PM 30221954
+ER
+
+PT J
+AU Liao, ZY
+   Liu, W
+   Li, X
+   Song, ZL
+AF Liao, Zhenyu
+   Liu, Wu
+   Li, Xian
+   Song, Zhaoli
+TI Give and Take: An Episodic Perspective on Leader-Member Exchange
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 34
+EP 51
+DI 10.1037/apl0000371
+UT WOS:000454514400003
+PM 30474999
+ER
+
+PT J
+AU Hammer, LB
+   Wan, WH
+   Brockwood, KJ
+   Bodner, T
+   Mohr, CD
+AF Hammer, Leslie B.
+   Wan, Wylie H.
+   Brockwood, Krista J.
+   Bodner, Todd
+   Mohr, Cynthia D.
+TI Supervisor Support Training Effects on Veteran Health and Work Outcomes
+   in the Civilian Workplace
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 52
+EP 69
+DI 10.1037/apl0000354
+UT WOS:000454514400004
+PM 30265016
+ER
+
+PT J
+AU Wang, G
+   van Iddekinge, CH
+   Zhang, LW
+   Bishoff, J
+AF Wang, Gang
+   van Iddekinge, Chad H.
+   Zhang, Liwen
+   Bishoff, John
+TI Meta-Analytic and Primary Investigations of the Role of Followers in
+   Ratings of Leadership Behavior in Organizations
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 70
+EP 106
+DI 10.1037/apl0000345
+UT WOS:000454514400005
+PM 30265017
+ER
+
+PT J
+AU Gundemir, S
+   Carton, AM
+   Homan, AC
+AF Gundemir, Seval
+   Carton, Andrew M.
+   Homan, Astrid C.
+TI The Impact of Organizational Performance on the Emergence of Asian
+   American Leaders
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 107
+EP 122
+DI 10.1037/apl0000347
+UT WOS:000454514400006
+PM 30247048
+ER
+
+PT J
+AU Moore, C
+   Mayer, DM
+   Chiang, FFT
+   Crossley, C
+   Karlesky, MJ
+   Birtch, TA
+AF Moore, Celia
+   Mayer, David M.
+   Chiang, Flora F. T.
+   Crossley, Craig
+   Karlesky, Matthew J.
+   Birtch, Thomas A.
+TI Leaders Matter Morally: The Role of Ethical Leadership in Shaping
+   Employee Moral Cognition and Misconduct
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Moore, Celia/0000-0001-6671-6632
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 123
+EP 145
+DI 10.1037/apl0000341
+UT WOS:000454514400007
+PM 30221953
+ER
+
+PT J
+AU Owens, BP
+   Yam, KC
+   Bednar, JS
+   Mao, JH
+   Hart, DW
+AF Owens, Bradley P.
+   Yam, Kai Chi
+   Bednar, Jeffrey S.
+   Mao, Jianghua
+   Hart, David W.
+TI The Impact of Leader Moral Humility on Follower Moral Self-Efficacy and
+   Behavior
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Owens, Bradley/0000-0002-5948-4973
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 146
+EP 163
+DI 10.1037/apl0000353
+UT WOS:000454514400008
+PM 30299115
+ER
+
+PT J
+AU Taylor, SG
+   Griffith, MD
+   Vadera, AK
+   Folger, R
+   Letwin, CR
+AF Taylor, Shannon G.
+   Griffith, Matthew D.
+   Vadera, Abhijeet K.
+   Folger, Robert
+   Letwin, Chaim R.
+TI Breaking the Cycle of Abusive Supervision: How Disidentification and
+   Moral Identity Help the Trickle-Down Change Course
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 164
+EP 182
+DI 10.1037/apl0000360
+UT WOS:000454514400009
+PM 30321031
+ER
+
+PT J
+AU Landay, K
+   Harms, PD
+   Crede, M
+AF Landay, Karen
+   Harms, P. D.
+   Crede, Marcus
+TI Shall We Serve the Dark Lords? A Meta-Analytic Review of Psychopathy and
+   Leadership
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2019
+VL 104
+IS 1
+SI SI
+BP 183
+EP 196
+DI 10.1037/apl0000357
+UT WOS:000454514400010
+PM 30321033
+ER
+
+EF

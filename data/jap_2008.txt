@@ -1,0 +1,2613 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Van Dyne, L
+   Kamdar, D
+   Joireman, J
+AF Van Dyne, Linn
+   Kamdar, Dishan
+   Joireman, Jeffrey
+TI In-Role Perceptions Buffer the Negative Impact of Low LMX on Helping and
+   Enhance the Positive Impact of High LMX on Voice
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Kamdar, Dishan/E-4011-2015
+OI Kamdar, Dishan/0000-0002-8451-6172
+SN 0021-9010
+EI 1939-1854
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1195
+EP 1207
+DI 10.1037/0021-9010.93.6.1195
+UT WOS:000261066300001
+PM 19025242
+ER
+
+PT J
+AU Henderson, DJ
+   Wayne, SJ
+   Shore, LA
+   Bormmer, WH
+   Tetrick, LE
+AF Henderson, David J.
+   Wayne, Sandy J.
+   Shore, Lynn A.
+   Bormmer, William H.
+   Tetrick, Lois E.
+TI Leader-Member Exchange, Differentiation, and Psychological Contract
+   Fulfillment: A Multilevel Examination
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1208
+EP 1219
+DI 10.1037/a0012678
+UT WOS:000261066300002
+PM 19025243
+ER
+
+PT J
+AU Neubert, MJ
+   Kacmar, KM
+   Carlson, DS
+   Chonko, LB
+   Roberts, JA
+AF Neubert, Mitchell J.
+   Kacmar, K. Michele
+   Carlson, Dawn S.
+   Chonko, Lawrence B.
+   Roberts, James A.
+TI Regulatory Focus as a Mediator of the Influence of Initiating Structure
+   and Servant Leadership on Employee Behavior
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Carlson, Dawn S./0000-0001-7236-2463
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1220
+EP 1233
+DI 10.1037/a0012695
+UT WOS:000261066300003
+PM 19025244
+ER
+
+PT J
+AU Hinkin, TR
+   Schriesheim, CA
+AF Hinkin, Timothy R.
+   Schriesheim, Chester A.
+TI An Examination of "Nonleadership": From Laissez-Faire Leadership to
+   Leader Reward Omission and Punishment Omission
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1234
+EP 1248
+DI 10.1037/a0012875
+UT WOS:000261066300004
+PM 19025245
+ER
+
+PT J
+AU Dudley, NM
+   Cortina, JM
+AF Dudley, Nicole M.
+   Cortina, Jose M.
+TI Knowledge and Skills That Facilitate the Personal Support Dimension of
+   Citizenship
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1249
+EP 1270
+DI 10.1037/a0012572
+UT WOS:000261066300005
+PM 19025246
+ER
+
+PT J
+AU White, FA
+   Charles, MA
+   Nelson, JK
+AF White, Fiona A.
+   Charles, Margaret A.
+   Nelson, Jacqueline K.
+TI The Role of Persuasive Arguments in Changing Affirmative Action
+   Attitudes and Expressed Behavior in Higher Education
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Nelson, Jacqueline/K-9434-2015
+OI Nelson, Jacqueline/0000-0001-7848-0604
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1271
+EP 1286
+DI 10.1037/a0012553
+UT WOS:000261066300006
+PM 19025247
+ER
+
+PT J
+AU Petersen, LE
+   Dietz, J
+AF Petersen, Lars-Eric
+   Dietz, Joerg
+TI Employment Discrimination: Authority Figures' Demographic Preferences
+   and Followers' Affective Organizational Commitment
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Dietz, Joerg/C-1603-2009
+OI Dietz, Joerg/0000-0002-3365-4380
+SN 0021-9010
+EI 1939-1854
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1287
+EP 1300
+DI 10.1037/a0012867
+UT WOS:000261066300007
+PM 19025248
+ER
+
+PT J
+AU Wegge, J
+   Roth, C
+   Neubach, B
+   Schmidt, KH
+   Kanfer, R
+AF Wegge, Juergen
+   Roth, Carla
+   Neubach, Barbara
+   Schmidt, Klaus-Helmut
+   Kanfer, Ruth
+TI Age and Gender Diversity as Determinants of Performance and Health in a
+   Public Organization: The Role of Task Complexity and Group Size
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1301
+EP 1313
+DI 10.1037/a0012680
+UT WOS:000261066300008
+PM 19025249
+ER
+
+PT J
+AU Nguyen, HHD
+   Ryan, AM
+AF Nguyen, Hannah-Hanh D.
+   Ryan, Ann Marie
+TI Does Stereotype Threat Affect Test Performance of Minorities and Women?
+   A Meta-Analysis of Experimental Evidence
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1314
+EP 1334
+DI 10.1037/a0012702
+UT WOS:000261066300009
+PM 19025250
+ER
+
+PT J
+AU Skarlicki, DP
+   van Jaarsveld, DD
+   Walker, DD
+AF Skarlicki, Daniel P.
+   van Jaarsveld, Danielle D.
+   Walker, David D.
+TI Getting Even for Customer Mistreatment: The Role of Moral Identity in
+   the Relationship Between Customer Interpersonal Injustice and Employee
+   Sabotage
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Walker, David/0000-0002-4886-1139
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1335
+EP 1347
+DI 10.1037/a0012704
+UT WOS:000261066300010
+PM 19025251
+ER
+
+PT J
+AU Ferris, DL
+   Brown, DJ
+   Berry, JW
+   Lian, HW
+AF Ferris, D. Lance
+   Brown, Douglas J.
+   Berry, Joseph W.
+   Lian, Huiwen
+TI The Development and Validation of the Workplace Ostracism Scale
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI FERRIS, Douglas Lance/D-2223-2010
+OI Lian, Huiwen/0000-0003-0556-6399
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1348
+EP 1366
+DI 10.1037/a0012743
+UT WOS:000261066300011
+PM 19025252
+ER
+
+PT J
+AU Montes, SD
+   Irving, PG
+AF Montes, Samantha D.
+   Irving, P. Greory
+TI Disentangling the Effects of Promised and Delivered Inducements:
+   Relational and Transactional Contract Elements and the Mediating Role of
+   Trust
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1367
+EP 1381
+DI 10.1037/a0012851
+UT WOS:000261066300012
+PM 19025253
+ER
+
+PT J
+AU Natanovich, G
+   Eden, D
+AF Natanovich, Gloria
+   Eden, Dov
+TI Pygmalion Effects Among Outreach Supervisors and Tutors: Extending Sex
+   Generalizability
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1382
+EP 1389
+DI 10.1037/a0012566
+UT WOS:000261066300013
+PM 19025254
+ER
+
+PT J
+AU Fan, JY
+   Wanous, JP
+AF Fan, Jinyan
+   Wanous, John P.
+TI Organizational and Cultural Entry: A New Type of Orientation Program for
+   Multiple Boundary Crossings
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1390
+EP 1400
+DI 10.1037/a0012828
+UT WOS:000261066300014
+PM 19025255
+ER
+
+PT J
+AU Inness, M
+   LeBlanc, MM
+   Barling, J
+AF Inness, Michelle
+   LeBlanc, Manon Mireille
+   Barling, Julian
+TI Psychosocial Predictors of Supervisor-, Peer-, Subordinate-, and
+   Service-Provider-Targeted Aggression
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Inness, Michelle/0000-0003-2342-0238
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1401
+EP 1411
+DI 10.1037/a0012810
+UT WOS:000261066300015
+PM 19025256
+ER
+
+PT J
+AU Golden, TD
+   Veiga, JF
+   Dino, RN
+AF Golden, Timothy D.
+   Veiga, John F.
+   Dino, Richard N.
+TI The Impact of Professional Isolation on Teleworker Job Performance and
+   Turnover Intentions: Does Time Spent Teleworking, Interacting
+   Face-to-Face, or Having Access to Communication-Enhancing Technology
+   Matter?
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1412
+EP 1421
+DI 10.1037/a0012722
+UT WOS:000261066300016
+PM 19025257
+ER
+
+PT J
+AU Pugh, SD
+   Dietz, J
+   Brief, AP
+   Wiley, JW
+AF Pugh, S. Douglas
+   Dietz, Joerg
+   Brief, Arthur P.
+   Wiley, Jack W.
+TI Looking Inside and Out: The Impact of Employee and Community Demographic
+   Composition on Organizational Diversity Climate
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Dietz, Joerg/C-1603-2009
+OI Dietz, Joerg/0000-0002-3365-4380
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1422
+EP 1428
+DI 10.1037/a0012696
+UT WOS:000261066300017
+PM 19025258
+ER
+
+PT J
+AU Hirschfeld, RR
+   Bernerth, JB
+AF Hirschfeld, Robert R.
+   Bernerth, Jeremy B.
+TI Mental Efficacy and Physical Efficacy at the Team Level: Inputs and
+   Outcomes Among Newly Formed Action Teams
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Hirschfeld, Robert/0000-0002-0973-8816
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1429
+EP 1437
+DI 10.1037/a0012574
+UT WOS:000261066300018
+PM 19025259
+ER
+
+PT J
+AU Eisenbeiss, SA
+   van Knippenberg, D
+   Boerner, S
+AF Eisenbeiss, Silke A.
+   van Knippenberg, Daan
+   Boerner, Sabine
+TI Transformational Leadership and Team Innovation: Integrating Team
+   Climate Principles
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Boerner, Sabine/Q-3846-2016
+OI Boerner, Sabine/0000-0002-0312-2578
+SN 0021-9010
+PD NOV
+PY 2008
+VL 93
+IS 6
+BP 1438
+EP 1446
+DI 10.1037/a0012716
+UT WOS:000261066300019
+PM 19025260
+ER
+
+PT J
+AU Cole, MS
+   Walter, F
+   Bruch, H
+AF Cole, Michael S.
+   Walter, Frank
+   Bruch, Heike
+TI Affective mechanisms linking dysfunctional behavior to performance in
+   work teams: A moderated mediation study
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Walter, Frank/B-9985-2013
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 945
+EP 958
+DI 10.1037/0021-9010.93.5.945
+UT WOS:000259416300001
+PM 18808218
+ER
+
+PT J
+AU Putka, DJ
+   Le, H
+   McCloy, RA
+   Diaz, T
+AF Putka, Dan J.
+   Le, Huy
+   McCloy, Rodney A.
+   Diaz, Tirso
+TI Ill-structured measurement designs in organizational research:
+   Implications for estimating interrater reliability
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 959
+EP 981
+DI 10.1037/0021-9010.93.5.959
+UT WOS:000259416300002
+PM 18808219
+ER
+
+PT J
+AU Umphress, EE
+   Simmons, AL
+   Boswell, WR
+   Triana, MD
+AF Umphress, Elizabeth E.
+   Simmons, Aneika L.
+   Boswell, Wendy R.
+   Triana, Maria del Carmen
+TI Managing discrimination in selection: The influence of directives from
+   an authority and social dominance orientation
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 982
+EP 993
+DI 10.1037/0021-9010.93.5.982
+UT WOS:000259416300003
+PM 18808220
+ER
+
+PT J
+AU Judge, TA
+   Livingston, BA
+AF Judge, Timothy A.
+   Livingston, Beth A.
+TI Is the gap more than gender? A longitudinal analysis of gender, gender
+   role orientation, and earnings
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Livingston, Beth/C-5922-2013
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 994
+EP 1012
+DI 10.1037/0021-9010.93.5.994
+UT WOS:000259416300004
+PM 18808221
+ER
+
+PT J
+AU Boezeman, EJ
+   Ellemers, N
+AF Boezeman, Edwin J.
+   Ellemers, Naomi
+TI Volunteer recruitment: The role of organizational support and
+   anticipated respect in non-volunteers' attraction to charitable
+   volunteer organizations
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Ellemers, Naomi/0000-0001-9810-1165
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1013
+EP 1026
+DI 10.1037/0021-9010.93.5.1013
+UT WOS:000259416300005
+PM 18808222
+ER
+
+PT J
+AU Reynolds, SJ
+AF Reynolds, Scott J.
+TI Moral attentiveness: Who pays attention to the moral aspects of life?
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1027
+EP 1041
+DI 10.1037/0021-9010.93.5.1027
+UT WOS:000259416300006
+PM 18808223
+ER
+
+PT J
+AU Meriac, JP
+   Hoffman, BJ
+   Woehr, DJ
+   Fleisher, MS
+AF Meriac, John P.
+   Hoffman, Brian J.
+   Woehr, David J.
+   Fleisher, Matthew S.
+TI Further evidence for the validity of assessment center dimensions: A
+   meta-analysis of the incremental criterion-related validity of dimension
+   ratings
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 22nd Annual Meeting of the Society-for-Industrial-and
+   -Organizational-Psychology
+CY APR, 2007
+CL New York, NY
+SP Soc Ind & Org Psychol
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1042
+EP 1052
+DI 10.1037/0021-9010.93.5.1042
+UT WOS:000259416300007
+PM 18808224
+ER
+
+PT J
+AU Gupta, VK
+   Turban, DB
+   Bhawe, NM
+AF Gupta, Vishal K.
+   Turban, Daniel B.
+   Bhawe, Nachiket M.
+TI The effect of gender stereotype activation on entrepreneurial intentions
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1053
+EP 1061
+DI 10.1037/0021-9010.93.5.1053
+UT WOS:000259416300008
+PM 18808225
+ER
+
+PT J
+AU Cascio, WF
+   Aguinis, H
+AF Cascio, Wayne F.
+   Aguinis, Herman
+TI Research in industrial and organizational psychology from 1963 to 2007:
+   Changes, choices, and trends
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Aguinis, Herman/M-2918-2014
+OI Aguinis, Herman/0000-0002-3485-9484
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1062
+EP 1081
+DI 10.1037/0021-9010.93.5.1062
+UT WOS:000259416300009
+PM 18808226
+ER
+
+PT J
+AU Chiaburu, DS
+   Harrison, DA
+AF Chiaburu, Dan S.
+   Harrison, David A.
+TI Do peers make the place? Conceptual synthesis and meta-analysis of
+   coworker effects on perceptions, attitudes, OCBs, and performance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Harrison, David/G-3342-2012
+OI Harrison, David/0000-0001-5247-3633
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1082
+EP 1103
+DI 10.1037/0021-9010.93.5.1082
+UT WOS:000259416300010
+PM 18808227
+ER
+
+PT J
+AU Bordia, P
+   Restubog, SLD
+   Tang, RL
+AF Bordia, Prashant
+   Restubog, Simon Lloyd D.
+   Tang, Robert L.
+TI When employees strike back: Investigating mediating mechanisms between
+   psychological contract breach and workplace deviance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 66th Annual Meeting of the Academy-of-Management
+CY AUG 11-16, 2006
+CL Atlanta, GA
+SP Acad Management
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1104
+EP 1117
+DI 10.1037/0021-9010.93.5.1104
+UT WOS:000259416300011
+PM 18808228
+ER
+
+PT J
+AU Levi, AS
+   Fried, Y
+AF Levi, Ariel S.
+   Fried, Yitzhak
+TI Differences between African Americans and Whites in reactions to
+   affirmative action programs in hiring, promotion, training, and layoffs
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1118
+EP 1129
+DI 10.1037/0021-9010.93.5.1118
+UT WOS:000259416300012
+PM 18808229
+ER
+
+PT J
+AU Lau, DC
+   Liden, RC
+AF Lau, Dora C.
+   Liden, Robert C.
+TI Antecedents of coworker trust: Leaders' blessings
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Lau, Dora/0000-0003-1828-6011
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1130
+EP 1138
+DI 10.1037/0021-9010.93.5.1130
+UT WOS:000259416300013
+PM 18808230
+ER
+
+PT J
+AU Stewart, GL
+   Dustin, SL
+   Barrick, MR
+   Darnold, TC
+AF Stewart, Greg L.
+   Dustin, Susan L.
+   Barrick, Murray R.
+   Darnold, Todd C.
+TI Exploring the handshake in employment interviews
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1139
+EP 1146
+DI 10.1037/0021-9010.93.5.1139
+UT WOS:000259416300014
+PM 18808231
+ER
+
+PT J
+AU Probst, TM
+   Brubaker, TL
+   Barsotti, A
+AF Probst, Tahira M.
+   Brubaker, Ty L.
+   Barsotti, Anthony
+TI Organizational injury rate underreporting: The moderating effect of
+   organizational safety climate
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Probst, Tahira/0000-0002-2789-4492
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1147
+EP 1154
+DI 10.1037/0021-9010.93.5.1147
+UT WOS:000259416300015
+PM 18808232
+ER
+
+PT J
+AU Oh, H
+   Kilduff, M
+AF Oh, Hongseok
+   Kilduff, Martin
+TI The ripple effect of personality on social structure: Self-monitoring
+   origins of network brokerage
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 66th Annual Meeting of the Academy-of-Management
+CY AUG 11-16, 2006
+CL Atlanta, GA
+SP Acad Management
+RI Kilduff, Martin/A-4980-2012
+OI Kilduff, Martin/0000-0003-4004-8749
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1155
+EP 1164
+DI 10.1037/0021-9010.93.5.1155
+UT WOS:000259416300016
+PM 18808233
+ER
+
+PT J
+AU Gino, F
+   Schweitzer, ME
+AF Gino, Francesca
+   Schweitzer, Maurice E.
+TI Blinded by anger or feeling the love: How emotions influence advice
+   taking
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1165
+EP 1173
+DI 10.1037/0021-9010.93.5.1165
+UT WOS:000259416300017
+PM 18808234
+ER
+
+PT J
+AU Ozer, M
+AF Ozer, Muammer
+TI Personal and task-related moderators of leader-member exchange among
+   software developers
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Ozer, Muammer/H-9258-2016
+OI Ozer, Muammer/0000-0003-2833-8196
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1174
+EP 1182
+DI 10.1037/0021-9010.93.5.1174
+UT WOS:000259416300018
+PM 18808235
+ER
+
+PT J
+AU Orvis, KA
+   Dudley, NM
+   Cortina, JA
+AF Orvis, Karin A.
+   Dudley, Nicole M.
+   Cortina, Jose A.
+TI Conscientiousness and reactions to psychological contract breach: A
+   longitudinal field study
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Orvis, Karin/A-2523-2009; Kerr, Alexa/A-8359-2012
+SN 0021-9010
+EI 1939-1854
+PD SEP
+PY 2008
+VL 93
+IS 5
+BP 1183
+EP 1193
+DI 10.1037/0021-9010.93.5.1183
+UT WOS:000259416300019
+PM 18808236
+ER
+
+PT J
+AU Tepper, BJ
+   Lambert, LS
+   Henle, CA
+   Giacalone, RA
+   Duffy, MK
+AF Tepper, Bennett J.
+   Lambert, Lisa Schurer
+   Henle, Christine A.
+   Giacalone, Robert A.
+   Duffy, Michelle K.
+TI Abusive supervision and subordinates' organization deviance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Tepper, Ben/0000-0003-0612-9078
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 721
+EP 732
+DI 10.1037/0021-9010.93.4.721
+UT WOS:000257680700001
+PM 18642979
+ER
+
+PT J
+AU Ng, KY
+   Ang, S
+   Chan, KY
+AF Ng, Kok-Yee
+   Ang, Soon
+   Chan, Kim-Yin
+TI Personality and leader effectiveness: A moderated mediation model of
+   leadership self-efficacy, job demands, and job autonomy
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI CHAN, KIM YIN/0000-0002-6754-4729
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 733
+EP 743
+DI 10.1037/0021-9010.93.4.733
+UT WOS:000257680700002
+PM 18642980
+ER
+
+PT J
+AU Zohar, D
+   Tenne-Gazit, O
+AF Zohar, Dov
+   Tenne-Gazit, Orly
+TI Transformational leadership and group interaction as climate
+   antecedents: A social network analysis
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 744
+EP 757
+DI 10.1037/0021-9010.93.4.744
+UT WOS:000257680700003
+PM 18642981
+ER
+
+PT J
+AU Rosette, AS
+   Leonardelli, GJ
+   Phillips, KW
+AF Rosette, Ashleigh Shelby
+   Leonardelli, Geoffrey J.
+   Phillips, Katherine W.
+TI The white standard: Racial bias in leader categorization
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Leonardelli, Geoffrey/H-9426-2012
+OI Leonardelli, Geoffrey/0000-0001-9968-7081
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 758
+EP 777
+DI 10.1037/0021-9010.93.4.758
+UT WOS:000257680700004
+PM 18642982
+ER
+
+PT J
+AU Subramony, M
+   Krause, N
+   Norton, J
+   Burns, GN
+AF Subramony, Mahesh
+   Krause, Nicole
+   Norton, Jacqueline
+   Burns, Gary N.
+TI The relationship between human resource investments and organizational
+   performance: A firm-level examination of equilibrium theory
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 67th Annual Meeting of the Academy-of-Management
+CY AUG 03-08, 2007
+CL Philadelphia, PA
+SP Acad Management
+OI Burns, Gary/0000-0001-7484-567X
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 778
+EP 788
+DI 10.1037/0021-9010.93.4.778
+UT WOS:000257680700005
+PM 18642983
+ER
+
+PT J
+AU Lyness, KS
+   Judiesch, MK
+AF Lyness, Karen S.
+   Judiesch, Michael K.
+TI Can a manager have a life and a career? International and multisource
+   perspectives on work-life balance and career advancement potential
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 26th International Congress of Applied Psychology
+CY JUL 16-21, 2006
+CL Athens, GREECE
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 789
+EP 805
+DI 10.1037/0021-9010.93.4.789
+UT WOS:000257680700006
+PM 18642984
+ER
+
+PT J
+AU Kelloway, EK
+   Francis, L
+   Catano, VA
+   Dupre, KE
+AF Kelloway, E. Kevin
+   Francis, Lori
+   Catano, Victor A.
+   Dupre, Kathryne E.
+TI Third-party support for strike action
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 806
+EP 817
+DI 10.1037/0021-9010.93.4.806
+UT WOS:000257680700007
+PM 18642985
+ER
+
+PT J
+AU Wang, M
+   Zhan, YJ
+   Liu, SQ
+   Shultz, KS
+AF Wang, Mo
+   Zhan, Yujie
+   Liu, Songqi
+   Shultz, Kenneth S.
+TI Antecedents of bridge employment: A longitudinal investigation
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Shultz, Kenneth/0000-0002-4846-8759
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 818
+EP 830
+DI 10.1037/0021-9010.93.4.818
+UT WOS:000257680700008
+PM 18642986
+ER
+
+PT J
+AU Xie, JL
+   Schaubroeck, J
+   Lam, SSK
+AF Xie, Jia Lin
+   Schaubroeck, John
+   Lam, Simon S. K.
+TI Theories of job stress and the role of traditional values: A
+   longitudinal study in China
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Schaubroeck, John/L-3255-2013
+OI Schaubroeck, John/0000-0001-9204-3603
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 831
+EP 848
+DI 10.1037/0021-9010.93.4.831
+UT WOS:000257680700009
+PM 18642987
+ER
+
+PT J
+AU Judge, TA
+   Hurst, C
+AF Judge, Timothy A.
+   Hurst, Charlice
+TI How the rich (and happy) get richer (and happier): Relationship of core
+   self-evaluations to trajectories in attaining work success
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 849
+EP 863
+DI 10.1037/0021-9010.93.4.849
+UT WOS:000257680700010
+PM 18642988
+ER
+
+PT J
+AU Toh, SM
+   Morgeson, FP
+   Campion, MA
+AF Toh, Soo Min
+   Morgeson, Frederick P.
+   Campion, Michael A.
+TI Human resource configurations: Investigating fit with the organizational
+   context
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 864
+EP 882
+DI 10.1037/0021-9010.93.4.864
+UT WOS:000257680700011
+PM 18642989
+ER
+
+PT J
+AU Dierdorff, EC
+   Ellington, JK
+AF Dierdorff, Erich C.
+   Ellington, J. Kemp
+TI It's the nature of the work: Examining behavior-based sources of
+   work-family conflict across occupations
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 67th Annual Meeting of the Academy-of-Management
+CY AUG 03-08, 2007
+CL Philadelphia, PA
+SP Acad Management
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 883
+EP 892
+DI 10.1037/0021-9010.93.4.883
+UT WOS:000257680700012
+PM 18642990
+ER
+
+PT J
+AU McElroy, JC
+   Crant, JM
+AF McElroy, James C.
+   Crant, J. Michael
+TI Handicapping: The effects of its source and frequency
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT Annual Meeting of the Academy of Management
+CY AUG, 2007
+CL Philadelphia, PA
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 893
+EP 900
+DI 10.1037/0021-9010.93.4.893
+UT WOS:000257680700013
+PM 18642991
+ER
+
+PT J
+AU Bakker, AB
+   Demerouti, E
+   Dollard, MF
+AF Bakker, Arnold B.
+   Demerouti, Evangelia
+   Dollard, Maureen F.
+TI How job demands affect partners' experience of exhaustion: Integrating
+   work-family conflict and crossover theory
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Dollard, Maureen/E-7040-2011; Bakker, Arnold/F-8494-2010
+OI Dollard, Maureen/0000-0002-3128-8727; Bakker, Arnold/0000-0003-1489-1847
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 901
+EP 911
+DI 10.1037/0021-9010.93.4.901
+UT WOS:000257680700014
+PM 18642992
+ER
+
+PT J
+AU Burris, ER
+   Detert, JR
+   Chiaburu, DS
+AF Burris, Ethan R.
+   Detert, James R.
+   Chiaburu, Dan S.
+TI Quitting before leaving: The mediating effects of psychological
+   attachment and detachment on voice
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Burris, Ethan/A-7783-2009
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 912
+EP 922
+DI 10.1037/0021-9010.93.4.912
+UT WOS:000257680700015
+PM 18642993
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Work-family conflict: Experiences and health implications among
+   immigrant Latinos (vol 92, pg 1119, 2007)
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 922
+EP 922
+DI 10.1037/0021-9010.93.4.922
+UT WOS:000257680700016
+ER
+
+PT J
+AU Ling, Y
+   Lubatkin, MH
+   Simsek, Z
+   Veiga, JF
+AF Ling, Yan
+   Lubatkin, Michael H.
+   Simsek, Zeki
+   Veiga, John F.
+TI The impact of transformational CEOs on the performance of small- to
+   medium-sized firms: Does organizational context matter?
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 923
+EP 934
+DI 10.1037/0021-9010.93.4.923
+UT WOS:000257680700017
+PM 18642995
+ER
+
+PT J
+AU Oreg, S
+   Bayazit, M
+   Vakola, M
+   Arciniega, L
+   Armenakis, A
+   Barkauskiene, R
+   Bozionelos, N
+   Fujimoto, Y
+   Gonzalez, L
+   Han, J
+   Hrebickova, M
+   Jimmieson, N
+   Kordacova, J
+   Mitsuhashi, H
+   Mlacic, B
+   Feric, I
+   Topic, MK
+   Ohly, S
+   Saksvik, PO
+   Hetland, H
+   Saksvik, I
+   van Dam, K
+AF Oreg, Shaul
+   Bayazit, Mahmut
+   Vakola, Maria
+   Arciniega, Luis
+   Armenakis, Achilles
+   Barkauskiene, Rasa
+   Bozionelos, Nikos
+   Fujimoto, Yuka
+   Gonzalez, Luis
+   Han, Jian
+   Hrebickova, Martina
+   Jimmieson, Nerina
+   Kordacova, Jana
+   Mitsuhashi, Hitoshi
+   Mlacic, Boris
+   Feric, Ivana
+   Topic, Marina Kotrla
+   Ohly, Sandra
+   Saksvik, Per Oystein
+   Hetland, Hilde
+   Saksvik, Ingvild
+   van Dam, Karen
+TI Dispositional resistance to change: Measurement equivalence and the link
+   to personal values across 17 nations
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Saksvik-Lehouillier, Ingvild/H-9708-2016; Arciniega, Luis/B-6840-2013;
+   Hrebickova, Martina/H-4410-2014
+OI Arciniega, Luis/0000-0001-7546-3913; Hrebickova,
+   Martina/0000-0003-4356-567X; Ohly, Sandra/0000-0001-6818-7519;
+   Jimmieson, Nerina/0000-0003-4901-7949
+SN 0021-9010
+PD JUL
+PY 2008
+VL 93
+IS 4
+BP 935
+EP 944
+DI 10.1037/0021-9010.93.4.935
+UT WOS:000257680700018
+PM 18642996
+ER
+
+PT J
+AU Bardi, A
+   Calogero, RM
+   Mullen, B
+AF Bardi, Anat
+   Calogero, Rachel M.
+   Mullen, Brian
+TI A new archival approach to the study of values and value-behavior
+   relations: Validation of the value lexicon
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Calogero, Rachel/B-9927-2009
+OI Bardi, Anat/0000-0003-1150-6341
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 483
+EP 497
+DI 10.1037/0021-9010.93.3.483
+UT WOS:000255556600001
+PM 18457482
+ER
+
+PT J
+AU Maslach, C
+   Leiter, MP
+AF Maslach, Christina
+   Leiter, Michael P.
+TI Early predictors of job burnout and engagement
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Leiter, Michael/Q-6934-2017
+OI Leiter, Michael/0000-0001-5680-0363
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 498
+EP 512
+DI 10.1037/0021-9010.93.3.498
+UT WOS:000255556600002
+PM 18457483
+ER
+
+PT J
+AU Choi, JP
+AF Choi, Jaepil
+TI Event justice perceptions and employees' reactions: Perceptions of
+   social entity justice as a moderator
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI CHOI, Jae Pil/D-2240-2010
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 513
+EP 528
+DI 10.1037/0021-9010.93.3.513
+UT WOS:000255556600003
+PM 18457484
+ER
+
+PT J
+AU Barnes, CM
+   Hollenbeck, JR
+   Wagner, DT
+   DeRue, DS
+   Nahrgang, JD
+   Schwind, KM
+AF Barnes, Christopher M.
+   Hollenbeck, John R.
+   Wagner, David T.
+   DeRue, D. Scott
+   Nahrgang, Jennifer D.
+   Schwind, Kelly M.
+TI Harmful help: The costs of backing-up behavior in teams
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI WAGNER, David/D-2242-2010; Barnes, Christopher/O-4814-2014
+OI WAGNER, David/0000-0002-3665-5346; Barnes,
+   Christopher/0000-0003-2520-6200
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 529
+EP 539
+DI 10.1037/0021-9010.93.3.529
+UT WOS:000255556600004
+PM 18457485
+ER
+
+PT J
+AU Pritchard, RD
+   Harrell, MM
+   DiazGranados, D
+   Guzman, MJ
+AF Pritchard, Robert D.
+   Harrell, Melissa M.
+   DiazGranados, Deborah
+   Guzman, Melissa J.
+TI The productivity measurement and enhancement system: A meta-analysis
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 540
+EP 567
+DI 10.1037/0021-9010.93.3.540
+UT WOS:000255556600005
+PM 18457486
+ER
+
+PT J
+AU Meade, AW
+   Johnson, EC
+   Braddy, PW
+AF Meade, Adam W.
+   Johnson, Emily C.
+   Braddy, Phillip W.
+TI Power and sensitivity of alternative fit indices in tests of measurement
+   invariance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Braddy, Phillip/0000-0002-6887-2257
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 568
+EP 592
+DI 10.1037/0021-9010.93.3.568
+UT WOS:000255556600006
+PM 18457487
+ER
+
+PT J
+AU Salamon, SD
+   Robinson, SL
+AF Salamon, Sabrina Deutsch
+   Robinson, Sandra L.
+TI Trust that binds: The impact of collective felt trust on organizational
+   performance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 593
+EP 601
+DI 10.1037/0021-9010.93.3.593
+UT WOS:000255556600007
+PM 18457488
+ER
+
+PT J
+AU Erez, A
+   Misangyi, VF
+   Johnson, DE
+   LePine, MA
+   Halverson, KC
+AF Erez, Amir
+   Misangyi, Vilmos F.
+   Johnson, Diane E.
+   LePine, Marcie A.
+   Halverson, Kent C.
+TI Stirring the hearts of followers: Charismatic leadership as the
+   transferal of affect
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI LePine, Marcie/A-3455-2015
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 602
+EP 616
+DI 10.1037/0021-9010.93.3.602
+UT WOS:000255556600008
+PM 18457489
+ER
+
+PT J
+AU Yeo, G
+   Neal, A
+AF Yeo, Gillian
+   Neal, Andrew
+TI Subjective cognitive effort: A model of states, traits, and time
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Neal, Andrew/J-3152-2014; Yeo, Gillian/H-6140-2014
+OI Neal, Andrew/0000-0002-5344-9376; Yeo, Gillian/0000-0001-9173-6096
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 617
+EP 631
+DI 10.1037/0021-9010.93.3.617
+UT WOS:000255556600009
+PM 18457490
+ER
+
+PT J
+AU Newnam, S
+   Griffin, MA
+   Mason, C
+AF Newnam, Sharon
+   Griffin, Mark A.
+   Mason, Claire
+TI Safety in work vehicles: A multilevel study linking safety values and
+   individual predictors to work-related driving crashes
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Mason, Claire/A-9775-2012; Griffin, Mark/C-2440-2013; Griffin,
+   Mark/H-9312-2014
+OI Mason, Claire/0000-0002-4412-5142; Griffin, Mark/0000-0003-4326-7752
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 632
+EP 644
+DI 10.1037/0021-9010.93.3.632
+UT WOS:000255556600010
+PM 18457491
+ER
+
+PT J
+AU Bond, FW
+   Flaxrnan, PE
+   Bunce, D
+AF Bond, Frank W.
+   Flaxrnan, Paul E.
+   Bunce, David
+TI The influence of psychological flexibility on work redesign: Mediated
+   moderation of a work reorganization intervention
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Bunce, David/0000-0003-3265-2700
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 645
+EP 654
+DI 10.1037/0021-9010.93.3.645
+UT WOS:000255556600011
+PM 18457492
+ER
+
+PT J
+AU Hornung, S
+   Rousseau, DM
+   Glaser, J
+AF Hornung, Severin
+   Rousseau, Denise M.
+   Glaser, Juergen
+TI Creating flexible work arrangements through idiosyncratic deals
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Glaser, Juergen/L-8398-2015
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 655
+EP 664
+DI 10.1037/0021-9010.93.3.655
+UT WOS:000255556600012
+PM 18457493
+ER
+
+PT J
+AU Harris, MM
+   Anseel, F
+   Lievens, F
+AF Harris, Michael M.
+   Anseel, Frederik
+   Lievens, Filip
+TI Keeping up with the joneses: A field study of the relationships among
+   upward, lateral, and downward comparisons and pay level satisfaction
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Lievens, Filip/K-8546-2012
+OI Lievens, Filip/0000-0002-9487-5187
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 665
+EP 673
+DI 10.1037/0021-9010.93.3.665
+UT WOS:000255556600013
+PM 18457494
+ER
+
+PT J
+AU Sonnentag, S
+   Binnewies, C
+   Mojza, EJ
+AF Sonnentag, Sabine
+   Binnewies, Carmen
+   Mojza, Eva J.
+TI "Did you have a nice evening?" A day-level study on recovery
+   experiences, sleep, and affect
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Sonnentag, Sabine/0000-0002-9464-4653
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 674
+EP 684
+DI 10.1037/0021-9010.93.3.674
+UT WOS:000255556600014
+PM 18457495
+ER
+
+PT J
+AU Dean, MA
+   Bobko, P
+   Roth, PL
+AF Dean, Michelle A.
+   Bobko, Philip
+   Roth, Philip L.
+TI Ethnic and gender subgroup differences in assessment center ratings: A
+   meta-analysis
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 685
+EP 691
+DI 10.1037/0021-9010-93.3.685
+UT WOS:000255556600015
+PM 18457496
+ER
+
+PT J
+AU Tolli, AP
+   Schmidt, AM
+AF Tolli, Adam P.
+   Schmidt, Aaron M.
+TI The role of feedback, causal attributions, and self-efficacy in goal
+   revision
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 692
+EP 701
+DI 10.1037/0021-9010.93.3.692
+UT WOS:000255556600016
+PM 18457497
+ER
+
+PT J
+AU Anderson, C
+   Flynn, FJ
+   Spataro, SE
+AF Anderson, Cameron
+   Flynn, Francis J.
+   Spataro, Sandra E.
+TI Personality and organizational culture as determinants of influence
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 702
+EP 710
+DI 10.1037/0021-9010.93.3.702
+UT WOS:000255556600017
+PM 18457498
+ER
+
+PT J
+AU Uggerslev, KL
+   Sulsky, LM
+AF Uggerslev, Krista L.
+   Sulsky, Lorne M.
+TI Using frame-of-reference training to understand the implications of
+   rater idiosyncrasy for rating accuracy
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD MAY
+PY 2008
+VL 93
+IS 3
+BP 711
+EP 719
+DI 10.1037/0021-9010.93.3.711
+UT WOS:000255556600018
+PM 18457499
+ER
+
+PT J
+AU Avery, DR
+   McKay, PF
+   Wilson, DC
+AF Avery, Derek R.
+   McKay, Patrick F.
+   Wilson, David C.
+TI What are the odds? How demographic similarity affects the prevalence of
+   perceived employment discrimination
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 22nd Annual Meeting of the Society-for-Industrial-and
+   -Organizational-Psychology
+CY APR, 2007
+CL New York, NY
+SP Soc Ind & Org Psychol
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 235
+EP 249
+DI 10.1037/0021-9010.93.2.235
+UT WOS:000254057000001
+PM 18361629
+ER
+
+PT J
+AU Mumford, TV
+   Van Iddekinge, CH
+   Morgeson, FP
+   Campion, MA
+AF Mumford, Troy V.
+   Van Iddekinge, Chad H.
+   Morgeson, Frederick P.
+   Campion, Michael A.
+TI The Team Role Test: Development and validation of a team role knowledge
+   situational judgment test
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 67th Annual Meeting of the Academy-of-Management
+CY AUG 03-08, 2007
+CL Philadelphia, PA
+SP Acad Management
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 250
+EP 267
+DI 10.1037/0021-9010.93.2.250
+UT WOS:000254057000002
+PM 18361630
+ER
+
+PT J
+AU Lievens, F
+   De Corte, W
+   Schollaert, E
+AF Lievens, Filip
+   De Corte, Wilfried
+   Schollaert, Eveline
+TI A closer look at the frame-of-reference effect in personality scale
+   scores and validity
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Lievens, Filip/K-8546-2012
+OI Lievens, Filip/0000-0002-9487-5187
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 268
+EP 279
+DI 10.1037/0021-9010.93.2.268
+UT WOS:000254057000003
+PM 18361631
+ER
+
+PT J
+AU Sitzmann, T
+   Brown, KG
+   Casper, WJ
+   Ely, K
+   Zimmerman, RD
+AF Sitzmann, Traci
+   Brown, Kenneth G.
+   Casper, Wendy J.
+   Ely, Katherine
+   Zimmerman, Ryan D.
+TI A review and meta-analysis of the nomological network of trainee
+   reactions
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Brown, Kenneth/A-5844-2008
+OI Brown, Kenneth/0000-0001-9428-9420
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 280
+EP 295
+DI 10.1037/0021-9010.93.2.280
+UT WOS:000254057000004
+PM 18361632
+ER
+
+PT J
+AU Bell, BS
+   Kozlowski, SWJ
+AF Bell, Bradford S.
+   Kozlowski, Steve W. J.
+TI Active learning: Effects of core training design elements on
+   self-regulatory processes, learning, and adaptability
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI KOZLOWSKI, STEVE/G-4614-2012
+OI KOZLOWSKI, STEVE/0000-0002-5123-3424
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 296
+EP 316
+DI 10.1037/0021-9010.93.2.296
+UT WOS:000254057000005
+PM 18361633
+ER
+
+PT J
+AU Liao, H
+   Subramony, M
+AF Liao, Hui
+   Subramony, Mahesh
+TI Employee customer orientation in manufacturing organizations: Joint
+   influences of customer proximity and the senior leadership team
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT Annual Meeting of the Frontiers in Service
+CY OCT, 2007
+CL San Francisco, CA
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 317
+EP 328
+DI 10.1037/0021-9010.93.2.317
+UT WOS:000254057000006
+PM 18361634
+ER
+
+PT J
+AU Detert, JR
+   Trevino, LK
+   Burris, ER
+   Andiappan, M
+AF Detert, James R.
+   Trevino, Linda K.
+   Burris, Ethan R.
+   Andiappan, Meena
+TI Managerial modes of influence and counterproductivity in organizations:
+   A longitudinal business-unit-level investigation (vol 92, pg 993, 2007)
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Burris, Ethan/A-7783-2009; Trevino, Linda/I-7707-2013
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 328
+EP 328
+DI 10.1037/0021-9010.93.2.328
+UT WOS:000254057000007
+ER
+
+PT J
+AU LeBreton, JM
+   Tonidandel, S
+AF LeBreton, James M.
+   Tonidandel, Scott
+TI Multivariate relative importance: Extending relative weight analysis to
+   multivariate criterion spaces
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 20th Annual Conference of the
+   Society-for-Industrial-and-Organizational-Psychology
+CY APR, 2005
+CL Los Angeles, CA
+SP Soc Ind & Org Psychol
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 329
+EP 345
+DI 10.1037/0021-9010.93.2.329
+UT WOS:000254057000008
+PM 18361636
+ER
+
+PT J
+AU Herold, DM
+   Fedor, DB
+   Caldwell, S
+   Liu, Y
+AF Herold, David M.
+   Fedor, Donald B.
+   Caldwell, Steven
+   Liu, Yi
+TI The effects of transformational and change leadership on employees'
+   commitment to a change: A multilevel study
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 346
+EP 357
+DI 10.1037/0021-9010.93.2.346
+UT WOS:000254057000009
+PM 18361637
+ER
+
+PT J
+AU Eby, LT
+   Durley, JR
+   Evans, SC
+   Ragins, BR
+AF Eby, Lillian T.
+   Durley, Jaime R.
+   Evans, Sarah C.
+   Ragins, Belle Rose
+TI Mentors' perceptions of negative mentoring experiences: Scale
+   development and nomological validation
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 66th Annual Meeting of the Academy-of-Management
+CY AUG 11-16, 2006
+CL Atlanta, GA
+SP Acad Management
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 358
+EP 373
+DI 10.1037/0021-9010.93.2.358
+UT WOS:000254057000010
+PM 18361638
+ER
+
+PT J
+AU Detert, JR
+   Trevino, LK
+   Sweitzer, VL
+AF Detert, James R.
+   Trevino, Linda Klebe
+   Sweitzer, Vicki L.
+TI Moral disengagement in ethical decision making: A study of antecedents
+   and outcomes
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Trevino, Linda/I-7707-2013
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 374
+EP 391
+DI 10.1037/0021-9010.93.2.374
+UT WOS:000254057000011
+PM 18361639
+ER
+
+PT J
+AU Ng, TWH
+   Feldman, DC
+AF Ng, Thomas W. H.
+   Feldman, Daniel C.
+TI The relationship of age to ten dimensions of job performance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 392
+EP 423
+DI 10.1037/0021-9010.93.2.392
+UT WOS:000254057000012
+PM 18361640
+ER
+
+PT J
+AU Schaubroeck, J
+   Shaw, JD
+   Duffy, MK
+   Mitra, A
+AF Schaubroeck, John
+   Shaw, Jason D.
+   Duffy, Michelle K.
+   Mitra, Atul
+TI An under-met and over-met expectations model of employee reactions to
+   merit raises
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Schaubroeck, John/L-3255-2013
+OI Schaubroeck, John/0000-0001-9204-3603
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 424
+EP 434
+DI 10.1037/0021-9010.93.2.424
+UT WOS:000254057000013
+PM 18361641
+ER
+
+PT J
+AU Arthur, W
+   Villado, AJ
+AF Arthur, Winfred, Jr.
+   Villado, Anton J.
+TI The importance of distinguishing between constructs and methods when
+   comparing predictors in personnel selection research and practice
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 435
+EP 442
+DI 10.1037/0021-9010.93.2.435
+UT WOS:000254057000014
+PM 18361642
+ER
+
+PT J
+AU Song, ZL
+   Foo, MD
+   Uy, MA
+AF Song, Zhaoli
+   Foo, Maw-Der
+   Uy, Marilyn A.
+TI Mood spillover and crossover among dual-earner couples: A cell phone
+   event sampling study
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Song, Zhaoli/H-6734-2013; Foo, Maw Der/B-3255-2009
+OI Foo, Maw Der/0000-0002-4887-081X
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 443
+EP 452
+DI 10.1037/0021-9010.93.2.443
+UT WOS:000254057000015
+PM 18361643
+ER
+
+PT J
+AU Furst, SA
+   Cable, DM
+AF Furst, Stacie A.
+   Cable, Daniel M.
+TI Employee resistance to organizational change: Managerial influence
+   tactics and leader-member exchange
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Cable, Daniel/C-3579-2014
+OI Furst-Holloway, Stacie/0000-0002-4561-0756
+SN 0021-9010
+EI 1939-1854
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 453
+EP 462
+DI 10.1037/0021-9010.93.2.453
+UT WOS:000254057000016
+PM 18361644
+ER
+
+PT J
+AU Behfar, KJ
+   Peterson, RS
+   Mannix, EA
+   Trochim, WMK
+AF Behfar, Kristin J.
+   Peterson, Randall S.
+   Mannix, Elizabeth A.
+   Trochim, William M. K.
+TI The critical role of conflict resolution in teams: A close look at the
+   links between conflict type, conflict management strategies, and team
+   outcomes (vol 93, pg 170, 2008)
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Behfar, Kristin/A-6863-2009
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 462
+EP 462
+DI 10.1037/0021-9010.93.2.462
+UT WOS:000254057000017
+ER
+
+PT J
+AU Collins, MW
+   Morris, SB
+AF Collins, Michael W.
+   Morris, Scott B.
+TI Testing for adverse impact when sample size is small
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 463
+EP 471
+DI 10.1037/0021-9010.93.2.463
+UT WOS:000254057000018
+PM 18361646
+ER
+
+PT J
+AU Riketta, M
+AF Riketta, Michael
+TI The causal relation between job attitudes and performance: A
+   meta-analysis of panel studies
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD MAR
+PY 2008
+VL 93
+IS 2
+BP 472
+EP 481
+DI 10.1037/0021-9010.93.2.472
+UT WOS:000254057000019
+PM 18361647
+ER
+
+PT J
+AU Hom, PW
+   Roberson, L
+   Ellis, AD
+AF Hom, Peter W.
+   Roberson, Loriann
+   Ellis, Aimee D.
+TI Challenging conventional wisdom about who quits: Revelations from
+   corporate America
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Hom, Peter/B-9498-2013
+OI Hom, Peter/0000-0001-8296-4652
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 1
+EP 34
+DI 10.1037/0021-9010.93.1.1
+UT WOS:000252327900001
+PM 18211132
+ER
+
+PT J
+AU Vancouver, JB
+   More, KM
+   Yoder, RJ
+AF Vancouver, Jeffrey B.
+   More, Kristen M.
+   Yoder, Ryan J.
+TI Self-efficacy and resource allocation: Support for a nonmonotonic,
+   discontinuous model
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT Meeting of the Society-of-Industrial-Organizational-Psychologists
+CY APR, 2005
+CL Los Angeles, CA
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 35
+EP 47
+DI 10.1037/0021-9010.93.1.35
+UT WOS:000252327900002
+PM 18211133
+ER
+
+PT J
+AU Grant, AM
+AF Grant, Adam M.
+TI Does intrinsic motivation fuel the prosocial fire? Motivational synergy
+   in predicting persistence, performance, and productivity
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 48
+EP 58
+DI 10.1037/0021-9010.93.1.48
+UT WOS:000252327900003
+PM 18211134
+ER
+
+PT J
+AU Keith, N
+   Frese, M
+AF Keith, Nina
+   Frese, Michael
+TI Effectiveness of error management training: A meta-analysis
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Frese, Michael/B-3283-2014; Frese, Michael/B-4599-2008
+OI Frese, Michael/0000-0002-6462-4395; Frese, Michael/0000-0002-6462-4395
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 59
+EP 69
+DI 10.1037/0021-9010.93.1.59
+UT WOS:000252327900004
+PM 18211135
+ER
+
+PT J
+AU Solinger, ON
+   van Olffen, W
+   Roe, RA
+AF Solinger, Omar N.
+   van Olffen, Woody
+   Roe, Robert A.
+TI Beyond the three-component model of organizational commitment
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Caulfield, Paul/B-1196-2009
+OI Solinger, Omar/0000-0003-4240-2625
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 70
+EP 83
+DI 10.1037/0021-9010.93.1.70
+UT WOS:000252327900005
+PM 18211136
+ER
+
+PT J
+AU Moon, H
+   Kamdar, D
+   Mayer, DM
+   Takeuchi, R
+AF Moon, Henry
+   Kamdar, Dishan
+   Mayer, David M.
+   Takeuchi, Riki
+TI Me or We? The role of personality and justice as other-centered
+   antecedents to innovative citizenship behaviors within organizations
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Kamdar, Dishan/E-4011-2015; Takeuchi, Riki/B-1917-2019
+OI Kamdar, Dishan/0000-0002-8451-6172; Takeuchi, Riki/0000-0001-8386-6640
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 84
+EP 94
+DI 10.1037/0021-9010.93.1.84
+UT WOS:000252327900006
+PM 18211137
+ER
+
+PT J
+AU Lim, S
+   Cortina, LM
+   Magley, VJ
+AF Lim, Sandy
+   Cortina, Lilia M.
+   Magley, Vicki J.
+TI Personal and workgroup incivility: Impact on work and health outcomes
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 64th Annual Meeting of the Academy-of-Management
+CY AUG 06-11, 2004
+CL New Orleans, LA
+SP Acad Management
+RI Lim, Sandy/B-3579-2016
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 95
+EP 107
+DI 10.1037/0021-9010.93.1.95
+UT WOS:000252327900007
+PM 18211138
+ER
+
+PT J
+AU Grant, AM
+AF Grant, Adam M.
+TI The significance of task significance: Job performance effects,
+   relational mechanisms, and boundary conditions
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 108
+EP 124
+DI 10.1037/0021-9010.93.1.108
+UT WOS:000252327900008
+PM 18211139
+ER
+
+PT J
+AU Whiting, SW
+   Podsakoff, PM
+   Pierce, JR
+AF Whiting, Steven W.
+   Podsakoff, Philip M.
+   Pierce, Jason R.
+TI Effects of task performance, helping, voice, and organizational loyalty
+   on performance appraisal ratings
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 125
+EP 139
+DI 10.1037/0021-9010.93.1.125
+UT WOS:000252327900009
+PM 18211140
+ER
+
+PT J
+AU Komar, S
+   Brown, DJ
+   Komar, JA
+   Robie, C
+AF Komar, Shawn
+   Brown, Douglas J.
+   Komar, Jennifer A.
+   Robie, Chet
+TI Faking and the validity of conscientiousness: A Monte Carlo
+   investigation
+SO JOURNAL OF APPLIED PSYCHOLOGY
+CT 22nd Annual Meeting of the Society-for-Industrial-and
+   -Organizational-Psychology
+CY APR, 2007
+CL New York, NY
+SP Soc Ind & Org Psychol
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 140
+EP 154
+DI 10.1037/0021-9010.93.1.140
+UT WOS:000252327900010
+PM 18211141
+ER
+
+PT J
+AU Bacharach, SB
+   Bamberger, PA
+   Doveh, E
+AF Bacharach, Samuel B.
+   Bamberger, Peter A.
+   Doveh, Etti
+TI Firefighters, critical incidents, and drinking to cope: The adequacy of
+   unit-level performance resources as a source of vulnerability and
+   protection
+SO JOURNAL OF APPLIED PSYCHOLOGY
+OI Bamberger, Peter/0000-0002-0344-8199
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 155
+EP 169
+DI 10.1037/0021-9010.93.1.155
+UT WOS:000252327900011
+PM 18211142
+ER
+
+PT J
+AU Behfar, KJ
+   Peterson, RS
+   Mannix, EA
+   Trochim, WMK
+AF Behfar, Kristin J.
+   Peterson, Randall S.
+   Mannix, Elizabeth A.
+   Trochim, William M. K.
+TI The critical role of conflict resolution in teams: A close look at the
+   links between conflict type, conflict management strategies, and team
+   outcomes
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Behfar, Kristin/A-6863-2009; Peterson, Randall/F-2327-2016
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 170
+EP 188
+DI 10.1037/0021-9010.93.1.170
+UT WOS:000252327900012
+PM 18211143
+ER
+
+PT J
+AU Heilman, ME
+   Okimoto, TG
+AF Heilman, Madeline E.
+   Okimoto, Tyler G.
+TI Motherhood: A potential source of bias in employment decisions
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Okimoto, Tyler/D-6634-2011
+OI Okimoto, Tyler/0000-0002-4506-6826
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 189
+EP 198
+DI 10.1037/0021-9010.93.1.189
+UT WOS:000252327900013
+PM 18211144
+ER
+
+PT J
+AU Frone, MR
+AF Frone, Michael R.
+TI Are work stressors related to employee substance use? The importance of
+   temporal context in assessments of alcohol and illicit drug use
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Frone, Michael/E-3929-2010
+OI Frone, Michael/0000-0003-4002-3947
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 199
+EP 206
+DI 10.1037/0021-9010.93.1.199
+UT WOS:000252327900014
+PM 18211145
+ER
+
+PT J
+AU Livingston, BA
+   Judge, TA
+AF Livingston, Beth A.
+   Judge, Timothy A.
+TI Emotional responses to work-family conflict: An examination of gender
+   role orientation among working men and women
+SO JOURNAL OF APPLIED PSYCHOLOGY
+RI Livingston, Beth/C-5922-2013
+SN 0021-9010
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 207
+EP 216
+DI 10.1037/0021-9010.93.1.207
+UT WOS:000252327900015
+PM 18211146
+ER
+
+PT J
+AU Zyphur, MJ
+   Chaturvedi, S
+   Arvey, RD
+AF Zyphur, Michael J.
+   Chaturvedi, Sankalp
+   Arvey, Richard D.
+TI Job performance over time is a function of latent trajectories and
+   previous performance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 217
+EP 224
+DI 10.1037/0021-9010.93.1.217
+UT WOS:000252327900016
+PM 18211147
+ER
+
+PT J
+AU Pearsall, MJ
+   Ellis, APJ
+   Evans, JM
+AF Pearsall, Matthew J.
+   Ellis, Aleksander P. J.
+   Evans, Joel M.
+TI Unlocking the effects of gender faultlines on team creativity: Is
+   activation the key?
+SO JOURNAL OF APPLIED PSYCHOLOGY
+SN 0021-9010
+EI 1939-1854
+PD JAN
+PY 2008
+VL 93
+IS 1
+BP 225
+EP 234
+DI 10.1037/0021-9010.93.1.225
+UT WOS:000252327900017
+PM 18211148
+ER
+
+EF
