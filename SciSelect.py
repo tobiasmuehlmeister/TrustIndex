@@ -21,7 +21,7 @@ for article in articles:
     if "DI" in article:
         doi = article.split("#")[-1]
     if article == "ER#":
-        articles_list.append("{}, {}, {}, {}".format(author, title, year, doi))
+        articles_list.append("{}, {}, {}, https://doi.org{}".format(author, title, year, doi))
 
 print("Oh hello sir, how many articles do you like to get?")
 amount = input()
