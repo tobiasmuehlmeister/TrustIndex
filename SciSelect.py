@@ -1,4 +1,6 @@
 import random
+import sys
+
 filepath = "data\jap_2000-2001-plain.txt"
 
 with open(filepath) as f:
@@ -27,4 +29,7 @@ print("Oh hello sir, how many articles do you like to get?")
 amount = input()
 print(random.sample(articles_list, k = int(amount)))
 
-input("Press enter to exit ;)")
+exit = input('Please enter exit to exit: \n')
+if exit in ['exit','Exit']:
+    print("Goodbye sir!")
+    sys.exit()
