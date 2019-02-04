@@ -23,11 +23,16 @@ for article in articles:
     if "DI" in article:
         doi = article.split("#")[-1]
     if article == "ER#":
-        articles_list.append("{}," \ "{}," \ "{}," \ "https://doi.org/{}" \\.format(author, title, year, doi))
-
+        articles_list.append("{}, {}, {}, https://doi.org/{}".format(author, title, year, doi))
 print("Oh hello sir, how many articles do you like to get?")
 amount = input()
-print(random.sample(articles_list, k = int(amount)))
+
+random_articles = random.sample(articles_list, k = int(amount))
+
+
+for i in random_articles:
+    print(i)
+    print("\n")
 
 exit = input('Please enter exit to exit: \n')
 if exit in ['exit','Exit']:
