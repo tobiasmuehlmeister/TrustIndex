@@ -3,8 +3,11 @@ import sys
 
 filepath = "data\jap_2000-2001-plain.txt"
 
+thesplit = ()
+
 with open(filepath) as f:
     articles = f.read().strip().split("\n")
+print(articles)
 
 articles_list = []
 
