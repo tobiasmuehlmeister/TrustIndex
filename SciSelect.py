@@ -1,6 +1,8 @@
 import random
 import sys
 
+def=item_split("AU","TI")
+
 filepath = "data\jap_2000-2001-plain.txt"
 
 with open(filepath) as f:
