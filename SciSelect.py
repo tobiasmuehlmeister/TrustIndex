@@ -26,3 +26,5 @@ for article in articles:
 print("Oh hello sir, how many articles do you like to get?")
 amount = input()
 print(random.sample(articles_list, k = int(amount)))
+
+input("Press enter to exit ;)")
