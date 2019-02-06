@@ -8,7 +8,10 @@ from termcolor import cprint
 from pyfiglet import figlet_format
 
 # Some pretty stuff
-cprint(figlet_format('TrustIndex', font='larry3d'),
+
+
+
+cprint(figlet_format('TrustIndex', font='big'),
        'yellow', 'on_red')
 print("___________________________________________________________________________________")
 
@@ -65,7 +68,8 @@ while True:
     print(dialogue1)
     print("\n")
     print("Now, how many random articles do you like to get on this sunny day?")
-    amount = input()
+    amount = input('Choose a number:')
+ 
 
     # Gotta love the random stuff:
     random_articles = random.sample(articles_list, k = int(amount))
