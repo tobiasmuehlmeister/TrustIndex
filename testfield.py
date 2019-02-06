@@ -8,14 +8,12 @@ from termcolor import cprint
 from pyfiglet import figlet_format
 
 # Some pretty stuff
-
-
-
 cprint(figlet_format('TrustIndex', font='big'),
        'yellow', 'on_red')
 print("___________________________________________________________________________________")
 
 # function for finding duplicates. Otherwise it would return the same index for duplicates, like: 2,2,2,2, for "PT J" (don't know why)
+
 def list_duplicates_of(seq,item):
     start_at = -1
     locs = []
@@ -60,7 +58,7 @@ while True:
     # The dialogue
     timeprint = str(datetime.datetime.now()).replace(" ", "-").replace(".", "-").replace(":", "-")
 
-    dialogue_raw = ("Welcome sir, you are about to get a random draw out of the \""
+    dialogue_raw = ("Welcome sir, you are about to get a random draw out of " + str(len(articles_list)) + " articles of the \""
                     + str(journal_name_clean) + "\" from the year(s) " + str(journal_year_clean) + ". You are welcome.")
     dialogue1 = dialogue_raw.replace("PY ", "")
 
@@ -68,8 +66,7 @@ while True:
     print(dialogue1)
     print("\n")
     print("Now, how many random articles do you like to get on this sunny day?")
-    amount = input('Choose a number:')
- 
+    amount = input()
 
     # Gotta love the random stuff:
     random_articles = random.sample(articles_list, k = int(amount))
