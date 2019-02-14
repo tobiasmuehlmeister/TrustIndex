@@ -4,13 +4,13 @@ Now we have a github!
 
 ## Getting Started
 
-Download the testfield.py file, output, and data directory to have some fun.
+Download the ScieSelect.py file, output, and data directory to have some fun.
 
 ### Prerequisites
 We need the following things: <br/>
 import random<br/>
 import sys<br/>
-from fpdf import FPDF<br/>
+#from fpdf import FPDF - using .txt export atm<br/>
 import datetime<br/>
 from colorama import init<br/>
 init(strip=not sys.stdout.isatty()) # strip colors if stdout is redirected<br/>
