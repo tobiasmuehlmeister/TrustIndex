@@ -4,7 +4,7 @@ Now we have a github!
 
 ## Getting Started
 
-Download the ScieSelect.py file, output, and data directory to have some fun.
+Download the SciSelect.py file, output, and data directory to have some fun.
 
 ### Prerequisites
 We need the following things: <br/>
