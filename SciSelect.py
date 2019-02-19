@@ -28,8 +28,8 @@ def list_duplicates_of(seq,item):
     return locs
 
 # Opening the designated file of joy:
-filepath = "data\jap_2000.txt"
-with open(filepath) as f:
+filepath = "data\JAP.txt"
+with open(filepath, encoding="UTF8") as f:
     articles = f.read().strip().split("\n")
 
 # Print a timestamp
