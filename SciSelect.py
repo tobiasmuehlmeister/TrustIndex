@@ -67,36 +67,39 @@ while True:
     print("\n")
     print("Now, how many random articles do you like to get on this sunny day?")
     amount = input()
+    if( amount.isdigit()):
+        # Gotta love the random stuff:
+        random_articles = random.sample(articles_list, k = int(amount))
 
-    # Gotta love the random stuff:
-    random_articles = random.sample(articles_list, k = int(amount))
+        # Merge and replace + PDF stuff:
+        pdflist = []
+        pdf = FPDF()
+        pdf.add_page()
+        pdf.set_font("Arial", size=9)
 
-    # Merge and replace + PDF stuff:
-    pdflist = []
-    pdf = FPDF()
-    pdf.add_page()
-    pdf.set_font("Arial", size=9)
+        f = open("output/" + timeprint + ".txt","w+")
+        for i in random_articles:
+            i = str(i)
+            i = i.replace("AU ", "Author(s): ").replace("AF ", "Author(s): ").replace("TI ", "Title: ")\
+                .replace("DI ", "DOI: https://doi.org/").replace("SO ", "Journal: ").replace("PY ", "Year: ").replace("'", "").replace("[", "").replace("]", "")
+            i = ''.join(i)
+            # print(i, sep = "\n")
+            f.write(str(i).replace(",    ", " ") + '\n')
+            pdflist.append(i)
 
-    f = open("output/" + timeprint + ".txt","w+")
-    for i in random_articles:
-        i = str(i)
-        i = i.replace("AU ", "Author(s): ").replace("AF ", "Author(s): ").replace("TI ", "Title: ")\
-            .replace("DI ", "DOI: https://doi.org/").replace("SO ", "Journal: ").replace("PY ", "Year: ").replace("'", "").replace("[", "").replace("]", "")
-        i = ''.join(i)
-        # print(i, sep = "\n")
-        f.write(str(i).replace(",    ", " ") + '\n')
-        pdflist.append(i)
+        f.close()
+        print("You will find the chosen articles under:\n>>> output/" + str(timeprint) + ".txt <<<")
 
-    f.close()
-    print("You will find the chosen articles under:\n>>> output/" + str(timeprint) + ".txt <<<")
-
-    while True:
-        answer = input("What about another run? (y/n): ")
-        if answer in ("y", "n"):
+        while True:
+            answer = input("What about another run? (y/n): ")
+            if answer in ("y", "n"):
+                break
+            print("Invalid input.")
+        if answer == 'y':
+            continue
+        else:
+            print("Goodbye sir!")
             break
-        print("Invalid input.")
-    if answer == 'y':
-        continue
     else:
-        print("Goodbye sir!")
-        break
+        print("No, " + amount + " is not a number! Again.")
+        continue
