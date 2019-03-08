@@ -10,26 +10,26 @@ The history.wos file contains the search history on Web of Science for the years
 
 Download the SciSelect.py file, output, and data directory to make things work. Make sure to have a file in the data\ folder and to transfer the name of the file to line 32: **filepath = "data\FILENAME.txt" 
 
-A web of science output file in txt format is needed (sample given below). 
+A web of science output file in txt format is needed (sample given below). <br/>
 Some modules are required to start (pyfiglet is just for the ASCII title): random, sys, datetime, pyfiglet.
 
 ### Example structure of the web of science output
-PT J
-AU Doe, J
-   Does, X
-   Did, L
-AF Doe, J
-   Does, X
-   Did, L
-TI Title: A really experimental examination of the exhibitional experience from former excluded exhibitioners 
-SO JOURNAL OF FOURTY TWO PSYCHOLOGICAL ANSWERS
-SN (ISSN)
-PD Date of publication
-PY Year of publication
-VL Volume
-IS Issue
-BP From page x
-EP To page y
-DI DOI number
-UT Web of science ID
-ER
+PT J<br/>
+AU Doe, J<br/>
+   Does, X<br/>
+   Did, L<br/>
+AF Doe, J<br/>
+   Does, X<br/>
+   Did, L<br/>
+TI Title: A really experimental examination of the exhibitional experience from former excluded exhibitioners <br/>
+SO JOURNAL OF FOURTY TWO PSYCHOLOGICAL ANSWERS<br/>
+SN (ISSN)<br/>
+PD Date of publication<br/>
+PY Year of publication<br/>
+VL Volume<br/>
+IS Issue<br/>
+BP From page x<br/>
+EP To page y<br/>
+DI DOI number<br/>
+UT Web of science ID<br/>
+ER<br/><br/>
