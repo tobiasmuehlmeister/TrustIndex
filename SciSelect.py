@@ -84,7 +84,6 @@ while True:
             # print(i, sep = "\n")
             f.write(str(i).replace(",    ", " ") + '\n')
 
-
         f.close()
         print("You will find the chosen articles here:\n>>> output/" + str(timeprint) + ".txt <<<")
 
