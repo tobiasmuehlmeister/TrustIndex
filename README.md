@@ -1,6 +1,7 @@
 ## TrustIndex
 
 This is the material part of the master thesis project: "A report on the replicability of the JAP: Validating automatic data extraction with manual tandem coding"
+
 Link to the OSF page: https://osf.io/e9yqj/
 
 The history.wos file contains the search history on Web of Science for the years 2000 - 01.02.2019 of "Journal of Applied Psychology"
