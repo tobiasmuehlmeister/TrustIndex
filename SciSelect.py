@@ -1,5 +1,4 @@
 import random
-import sys
 import datetime
 
 # The title
@@ -68,12 +67,12 @@ while True:
     print("Now, how many random articles do you like to get on this sunny day?")
     amount = input()
     # Check if entered number is a number and lower or equal to the total amount of articles
-    if amount.isdigit() and int(amount) <= int(len(articles_list)):
+    if amount.isdigit():
         # Drawing random articles from the population file:
         random_articles = random.sample(articles_list, k = int(amount))
 
         # Creating an output file with timestamp as title (in txt format)
-        f = open("output/" + timeprint + ".txt","w+")
+        f = open("output/" + timeprint + ".txt","w+", encoding="UTF8")
         for i in random_articles:
             i = str(i)
             i = i.replace("AU ", "Author(s): ").replace("AF ", "Author(s): ").replace("TI ", "Title: ")\
