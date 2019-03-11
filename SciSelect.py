@@ -1,11 +1,9 @@
 import random
 import sys
-from fpdf import FPDF
 import datetime
-from pyfiglet import figlet_format
 
 # The title
-print(figlet_format('TrustIndex', font='big'))
+print('TrustIndex')
 print("___________________________________________________________________________________")
 
 # function for finding duplicates. Otherwise it would return the same first index for
