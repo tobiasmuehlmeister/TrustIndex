@@ -17,11 +17,13 @@ df2 = df1[['Article', 'Study', 'focal_test']].dropna(subset=['focal_test'])
 # after that, the code draws a sample of 1 from each grouped study
 rng_draw = df2.sample(frac = 1.0).groupby(['Article', 'Study']).head(1)
 
+# output to csv
+rng_draw[['focal_test']].to_csv('data\\focal_output.csv', sep='\t', encoding='utf-8', index=False)
+
 # this prints the draw in total (with article and study number)
 # print(rng_draw)
 
 # this prints just the focal_test
 # print(rng_draw[['focal_test']])
 
-# output to csv
-rng_draw[['focal_test']].to_csv('data\\focal_output.csv', sep='\t', encoding='utf-8', index=False)
+
