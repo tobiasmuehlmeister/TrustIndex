@@ -1,13 +1,13 @@
 import pandas as pd
 
 # Assign spreadsheet filename to `file`
-file = 'data\coded_articles.xlsx'
+file = 'data\cd_testrun.xlsx'
 
 # Load spreadsheet
 xl = pd.ExcelFile(file)
 
-# Loads the sheet from the excel file ("Blad2"  in this case)
-df1 = xl.parse('Blad2')
+# Loads the sheet from the excel file ("Blad1"  in this case)
+df1 = xl.parse('Blad1')
 
 # filters the loaded sheet for the columns Article, Study, and focal_test, deletes missing values in focal_test
 df2 = df1[['Article', 'Study', 'focal_test']].dropna(subset=['focal_test'])
@@ -18,7 +18,10 @@ df2 = df1[['Article', 'Study', 'focal_test']].dropna(subset=['focal_test'])
 rng_draw = df2.sample(frac = 1.0).groupby(['Article', 'Study']).head(1)
 
 # this prints the draw in total (with article and study number)
-print(rng_draw)
+# print(rng_draw)
 
 # this prints just the focal_test
-print(rng_draw[['focal_test']])
+# print(rng_draw[['focal_test']])
+
+# output to csv
+rng_draw[['focal_test']].to_csv('data\\focal_output.csv', sep='\t', encoding='utf-8', index=False)
