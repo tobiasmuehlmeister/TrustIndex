@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Assign spreadsheet filename to `file`
-file = 'data\cd_testrun.xlsx'
+file = 'data\\03042019.xlsx'
 
 # Load spreadsheet
 xl = pd.ExcelFile(file)
@@ -18,7 +18,7 @@ df2 = df1[['Article', 'Study', 'Assigned_focal_test', 'focal_test']].dropna(subs
 rng_draw = df2.sample(frac = 1.0).groupby(['Article', 'Assigned_focal_test']).head(1)
 
 # output to csv
-rng_draw[['focal_test']].to_csv('data\\focal_output.csv', sep='\t', encoding='utf-8', index=False)
+rng_draw[['focal_test']].to_csv('output\\focal_output.csv', sep='\t', encoding='utf-8', index=False)
 
 # this prints the draw in total (with article and study number)
 print(rng_draw)
